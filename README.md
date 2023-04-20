@@ -6,3 +6,5 @@
 * It also includes the dataset used for the analysis 
 
 The project showcases the practical application of data analytics techniques to gain insights into customer behavior and preferences, and to develop effective marketing strategies based on those insights
+
+<img width="728" alt="image" src="https://user-images.githubusercontent.com/114832299/233500181-08017e99-1d2c-48f2-b14c-ccae0c76cc07.png">
